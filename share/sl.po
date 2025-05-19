@@ -2239,7 +2239,7 @@ msgstr "Minimalno število domenskih strežnikov"
 
 #. DELEGATION:DELEGATION02
 msgid "Name servers must have distinct IP addresses"
-msgstr "Domenski strežniki morajo imeti razočne IP naslove"
+msgstr "Domenski strežniki morajo imeti različne IP naslove"
 
 #. DELEGATION:DELEGATION03
 msgid "No truncation of referrals"
@@ -2393,7 +2393,7 @@ msgid ""
 "Delegation does not list enough ({count}) nameservers that resolve to IPv4 "
 "addresses. Lower limit set to {minimum}. Name servers: {ns_list}"
 msgstr ""
-"Delegacija ne ima dovolj ({count}) domenskih strežnikov ({ns_list}) z IPv4 "
+"Delegacija nima dovolj ({count}) domenskih strežnikov ({ns_list}) z IPv4 "
 "naslovi. Spodnja meja nastavljena na {minimum}"
 
 #. DELEGATION:NOT_ENOUGH_IPV6_NS_CHILD
